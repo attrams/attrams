@@ -1,5 +1,7 @@
-### Hi there 👋
-
+- 👋 Hi, I'm Papa Attrams.
+- 🌱 An aspiring backend engineer with knowledge in Python, Kotlin, Elixir, and JavaScript.
+- 👯 I’m looking to collaborate on projects to help better understand backend development.
+  
 <!--
 **attrams/attrams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
