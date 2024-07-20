@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Papa Attrams.
-- 🌱 An aspiring backend engineer with knowledge in Python, Kotlin, Elixir, and JavaScript.
+- 🌱 An aspiring software engineer.
 - 👯 I’m looking to collaborate on projects to help better understand backend development.
   
 <!--
